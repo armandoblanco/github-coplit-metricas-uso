@@ -1,0 +1,11 @@
+# GitHub Copilot Usage Metrics - Dependencias
+
+# Peticiones HTTP
+requests>=2.28.0
+
+# Carga de variables de entorno
+python-dotenv>=1.0.0
+
+# Opcional: Para exportar a Excel
+pandas>=2.0.0
+openpyxl>=3.1.0
